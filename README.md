@@ -53,4 +53,4 @@ Compiles `src/index.scss` to `dist/index.css`.
 
 ## License
 
-MIT © [Rory Duncan](https://github.com/RoryDuncan)
+MIT
