@@ -1,6 +1,6 @@
 {
   "name": "iphigenia",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "CSS Utils via bootstrap",
   "main": "dist/index.css",
   "style": "dist/index.css",
